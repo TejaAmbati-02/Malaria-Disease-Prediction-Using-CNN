@@ -1,1 +1,1 @@
-# Malaria-Disease-Using-CNN
+# Malaria-Disease-Prediction-Using-CNN
